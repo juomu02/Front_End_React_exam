@@ -77,7 +77,7 @@
 11. ### install react-router
    ###### *enables multiple page loading in React
    ```
-   npx install react-router
+   npm install react-router
    ```
    https://reactrouter.com/7.8.0/start/declarative/routing
 
