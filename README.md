@@ -69,10 +69,18 @@
    https://react-hook-form.com/dev-tools
 
 10. ### install json-server
-    ###### \*parameters "data/data.json --port 3000" are set up for this project
-    ```
-    npx json-server data/data.json --port 3000
-    ```
+   ###### \*parameters "data/data.json --port 3000" are set up for this project
+   ```
+   npx json-server data/data.json --port 3000
+   ```
+
+11. ### install react-router
+   ###### *enables multiple page loading in React
+   ```
+   npx install react-router
+   ```
+   https://reactrouter.com/7.8.0/start/declarative/routing
+
 
 # File and folder review
 
